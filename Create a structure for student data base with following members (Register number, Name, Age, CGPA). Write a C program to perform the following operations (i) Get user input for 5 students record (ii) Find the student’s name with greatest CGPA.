@@ -6,7 +6,6 @@ struct Student {
     int age;
     float cgpa;
 };
-
 int main() {
     struct Student students[5]; 
     int i;
